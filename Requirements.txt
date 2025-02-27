@@ -1,0 +1,6 @@
+Torch
+Datasets
+Transformers
+Huggingface_hub
+Flask
+Fastapi
